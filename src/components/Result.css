@@ -1,0 +1,10 @@
+.result {
+
+    text-align: center;
+    padding: 10px;
+    border-top: 2px solid #ddd;
+}
+
+.result em {
+    font-weight: bold;
+}
